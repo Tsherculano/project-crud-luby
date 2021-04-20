@@ -14,4 +14,4 @@
 
 6 - No terminal, na raiz do projeto, executar o comando: php artisan migrate;
 
-7 - No terminall, na raiz do projeto, executar o comando: php artisan serve.
+7 - No terminal, na raiz do projeto, executar o comando: php artisan serve.
