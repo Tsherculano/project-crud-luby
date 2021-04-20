@@ -10,7 +10,7 @@
 
 4 - No terminal, na raiz do projeto, executar o comando: npm install;
 
-5 - Configurar conexão com banco de dados no arquivo .env;
+5 - Configurar conexão com banco de dados;
 
 6 - No terminal, na raiz do projeto, executar o comando: php artisan migrate;
 
